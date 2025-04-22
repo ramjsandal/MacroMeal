@@ -1,4 +1,4 @@
-# mealPlanCalc
+# MacroMeal
 
 ## What is this project?
 Using Java, this project gives you well reviewed recipes that match your nutritional goals.
